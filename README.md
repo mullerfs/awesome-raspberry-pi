@@ -85,7 +85,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 ## Resources
 ### Articles
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
-- [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
+- [10 Ways to Power your Raspberry Pi](https://www.lifewire.com/ways-to-power-your-raspberry-pi-4092246) - Information about different & correct ways to power the pi.
 
 ### Tutorials
 - [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Set up tethered networking between macOS & Raspberry Pi.
